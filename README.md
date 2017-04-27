@@ -31,4 +31,4 @@ Thanks to the awesome power of integrated apps, you can do all kinds of magical 
 ## Getting started is easy!
 ![alt text](https://drive.google.com/uc?id=0BymaV1_sEeUgeWNSY1pmMzA0cGs)
 
-So, what are you waiting for? Join me (and the 400+ people who’ve already signed up) on Slack!
+## So, what are you waiting for? Join me (and the 400+ people who’ve already signed up) on Slack!
