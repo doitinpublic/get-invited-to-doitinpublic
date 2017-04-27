@@ -4,12 +4,11 @@ It all started with the first annual [Tableau Public hackathon;](https://public.
 
 Then, when Sophie Sparkes launched [Viz Book Club](https://public.tableau.com/en-us/s/blog/2017/03/introducing-our-data-viz-book-club) a lot of inquiries about how to localize club-centric discussions started popping up, a light bulb went off in Tableau Public fangirl turned employee [Cynthia Andrews'](https://public.tableau.com/profile/the.real.cynthia.alice.andrews#!/) head; why not transform the existing hackathon team? By opening it to the community, they could solve for conversation localization with Slack channels AND give the community a new level of detail for communication!
 
-Within a few short days, our team ["We Do It In [Tableau] Public"](https://join.slack.com/doitinpublic/shared_invite/
-MTc0NTQ5NDkyMDAwLTE0OTMyNTQwNTAtMjhlMzgwNDQ2Yw) launched and so far, people are loving it!
+Within a few short days, our team "We Do It In [Tableau] Public"(https://join.slack.com/doitinpublic/shared_invite/MTc0NTQ5NDkyMDAwLTE0OTMyNTQwNTAtMjhlMzgwNDQ2Yw) launched and so far, people are loving it!
 
-## So, what are you waiting for? Join me (and the 400+ people who’ve already signed up) on Slack!
+### So, what are you waiting for? Join me (and the 400+ people who’ve already signed up) on Slack!
 
-### On the fence about adding another platform to the list? Here are just a few of the reasons Slack rules:
+## On the fence about adding another platform to the list? Here are just a few of the reasons Slack rules:
 
 **Channels** provide a dedicated space for continuous, subject-driven discussions and keep info. overload at bay by allowing people to pick and choose which ones they join.
 Within channels, **threaded conversations** make it easy to keep up-to-date on the conversations you take part in.
