@@ -1,4 +1,4 @@
-#H2 Why Slack?
+##Why Slack?
 
 It all started with the first annual Tableau Public hackathon; which took place entirely online so, naturally, communication between participants had to be all digital too. In the past, Tableau Public has deferred to Twitter for event-driven community conversations but, this time around they wanted to provide people with a localized place to share their vizzes, get feedback and discuss all things #HackingOpenData and, due to its collaborative nature Slack emerged as the perfect venue.
 
@@ -6,7 +6,7 @@ Then, when Sophie Sparkes launched Viz Book Club a lot of inquiries about how to
 
 Within a few short days, our team ' We Do It In [Tableau] Public" launched and so far, people are loving it!
 
-#H2 On the fence about adding another platform to the list? Here are just a few of the reasons Slack rules:
+##On the fence about adding another platform to the list? Here are just a few of the reasons Slack rules:
 
 Channels provide a dedicated space for continuous, subject-driven discussions and keep info. overload at bay by allowing people to pick and choose which ones they join.
 Within channels, threaded conversations make it easy to keep up-to-date on the conversations you take part in.
@@ -24,10 +24,10 @@ Generate a random gif, influenced by the keyword(s) of your choosing by typing /
 Poll the community with simply by typing /poll "Poll question?" "Option1" "Option2" "Option3" and hitting return!
 Create and share memes with /meme [search terms or image url]
 
-#H2 Haven’t used Slack before?
+##Haven’t used Slack before?
 ![alt text](https://drive.google.com/uc?id=0BymaV1_sEeUgUDFlU3lZZXJZRzg)
 
-#H2 Getting started is easy!
-![alt text] (https://drive.google.com/open?id=0BymaV1_sEeUgeWNSY1pmMzA0cGs)
+##Getting started is easy!
+![alt text](https://drive.google.com/open?id=0BymaV1_sEeUgeWNSY1pmMzA0cGs)
 
 So, what are you waiting for? Join me (and the 400+ people who’ve already signed up) on Slack!
