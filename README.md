@@ -1,12 +1,12 @@
+# [Join the us (and the 400+ people who’ve already signed up) on Slack!](https://join.slack.com/doitinpublic/shared_invite/MTc0NTQ5NDkyMDAwLTE0OTMyNTQwNTAtMjhlMzgwNDQ2Yw)
+
 ## Why Slack?
 
 It all started with the first annual [Tableau Public hackathon;](https://public.tableau.com/en-us/s/blog/2017/02/tableau-public-open-data-visualization-hackathon-register-now) which took place entirely online so, naturally, communication between participants had to be all digital too. In the past, Tableau Public has deferred to Twitter for event-driven community conversations but, this time around they wanted to provide people with a localized place to share their vizzes, get feedback and discuss all things #HackingOpenData and, due to its collaborative nature Slack emerged as the perfect venue.
 
 Then, when Sophie Sparkes launched [Viz Book Club](https://public.tableau.com/en-us/s/blog/2017/03/introducing-our-data-viz-book-club) a lot of inquiries about how to localize club-centric discussions started popping up, a light bulb went off in Tableau Public fangirl turned employee [Cynthia Andrews'](https://public.tableau.com/profile/the.real.cynthia.alice.andrews#!/) head; why not transform the existing hackathon team? By opening it to the community, they could solve for conversation localization with Slack channels AND give the community a new level of detail for communication!
 
-Within a few short days, our team "We Do It In [Tableau] Public"(https://join.slack.com/doitinpublic/shared_invite/MTc0NTQ5NDkyMDAwLTE0OTMyNTQwNTAtMjhlMzgwNDQ2Yw) launched and so far, people are loving it!
-
-### So, what are you waiting for? Join me (and the 400+ people who’ve already signed up) on Slack!
+Within a few short days, our team [[We Do It In (Tableau) Public](https://join.slack.com/doitinpublic/shared_invite/MTc0NTQ5NDkyMDAwLTE0OTMyNTQwNTAtMjhlMzgwNDQ2Yw) launched and so far, people are loving it!
 
 ## On the fence about adding another platform to the list? Here are just a few of the reasons Slack rules:
 
