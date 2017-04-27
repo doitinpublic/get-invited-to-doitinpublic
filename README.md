@@ -1,4 +1,4 @@
-# [Join the us (and the 400+ people who’ve already signed up) on Slack!](https://join.slack.com/doitinpublic/shared_invite/MTc0NTQ5NDkyMDAwLTE0OTMyNTQwNTAtMjhlMzgwNDQ2Yw)
+## [Join the us (and the 400+ people who’ve already signed up) on Slack!](https://join.slack.com/doitinpublic/shared_invite/MTc0NTQ5NDkyMDAwLTE0OTMyNTQwNTAtMjhlMzgwNDQ2Yw)
 
 ## Why Slack?
 
